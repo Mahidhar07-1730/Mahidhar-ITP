@@ -1,7 +1,7 @@
 # Mahidhar-ITP
 Project Title
 
-Goods Receipt Management System in C
+Goods Receipt Management System
 
 📌 Abstract
 
