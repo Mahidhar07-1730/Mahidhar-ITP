@@ -48,6 +48,8 @@ The output resembles a real goods receipt for easy understanding and documentati
 
 📌 Screenshot of Output:
 GOODS RECEIPT SYSTEM  
+
+
 Enter Supplier Name: FreshFarms  
 Enter number of items received: 3  
 
