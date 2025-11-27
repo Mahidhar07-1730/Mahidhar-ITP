@@ -46,8 +46,8 @@ The program creates an array based on user input (struct Item items[n];).
 
 The output resembles a real goods receipt for easy understanding and documentation.
 
-📌 Screenshot of Output (Text Representation)
-======== GOODS RECEIPT SYSTEM ========  
+📌 Screenshot of Output:
+GOODS RECEIPT SYSTEM  
 Enter Supplier Name: FreshFarms  
 Enter number of items received: 3  
 
