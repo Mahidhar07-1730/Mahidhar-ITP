@@ -4,7 +4,8 @@ Project Title
 Goods Receipt Management System
 
 📌 Abstract
-         The Goods Receipt Management System is a C-based console application that helps users maintain records of items received from various suppliers. The program captures supplier details along with item-specific information such as name, quantity, and price. Once the data is entered, the system automatically computes individual item totals and the overall grand total, presenting the results in a clean, formatted receipt. This project highlights the practical use of structures, arrays, loops, and input/output formatting in C, making it an excellent introduction to basic data handling and record management in programming.
+        
+The Goods Receipt Management System is a C-based console application that helps users maintain records of items received from various suppliers. The program captures supplier details along with item-specific information such as name, quantity, and price. Once the data is entered, the system automatically computes individual item totals and the overall grand total, presenting the results in a clean, formatted receipt. This project highlights the practical use of structures, arrays, loops, and input/output formatting in C, making it an excellent introduction to basic data handling and record management in programming.
 
 📌 Project Features
 ✅ 1. Supplier Information Input
