@@ -80,3 +80,8 @@ Milk            4          15.00      60.00
 -----------------------------------  
 Grand Total: 92.20  
 ===================================
+
+
+SCREENSHOTS:
+
+<img width="1650" height="953" alt="output github" src="https://github.com/user-attachments/assets/7228be0f-44ff-4f3f-a94f-20291c62eedb" />
